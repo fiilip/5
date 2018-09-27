@@ -1,5 +1,5 @@
 body{
-    background: darksalmon;
+    background: darkgrey;
 }
 
 .fill{
@@ -17,8 +17,8 @@ body{
     height: 160px;
     width: 160px;
     margin: 10px;
-    border: 3px salmon solid;
-    background-color: white;
+    border: 3px #414141 solid;
+    background-color:rgba(247, 247, 255, 0.46);
 }
 
 .hold{
@@ -26,8 +26,7 @@ body{
 }
 
 .hovered{
-    background: #f4f4f4;
-    border-style: dashed;
+    background:#ebebeb;
 }
 
 .invisible{
